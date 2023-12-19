@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "",
+      "firstName": "Satoshi",
+      "lastName": "Tajiri",
+      "email": "stajiri@email.com",
+      "phoneNumber": "111222333",
+      "password": "123",
+      "createdAt": "2023-12-18T22:58:05.311Z",
+      "updatedAt": "2023-12-18T22:59:13.725Z"
+    },
+    {
+      "id": "",
+      "firstName": "Tom",
+      "lastName": "Hardy",
+      "email": "stajiri@gmail.com",
+      "phoneNumber": "+380111222333",
+      "password": "123",
+      "createdAt": "2023-12-19T03:51:50.380Z"
+    },
+    {
+      "id": "2cbc8491-0ca7-46f6-84ad-28a754804ce9",
+      "firstName": "Michael",
+      "lastName": "Hardy",
+      "email": "stajiri@gmail.com",
+      "phoneNumber": "+380111222333",
+      "password": "123",
+      "createdAt": "2023-12-19T04:01:26.919Z"
+    }
+  ],
+  "fighters": [
+    {
+      "id": "",
+      "name": "Ryu",
+      "health": 100,
+      "power": 2,
+      "defense": 1,
+      "createdAt": "2023-12-18T17:41:25.882Z",
+      "updatedAt": "2023-12-18T17:43:10.071Z"
+    },
+    {
+      "id": "",
+      "name": "Ken",
+      "health": 200,
+      "power": 2,
+      "defense": 1,
+      "createdAt": "2023-12-19T01:18:33.478Z"
+    },
+    {
+      "id": "",
+      "name": "Guile",
+      "health": 120,
+      "power": 2,
+      "defense": 1,
+      "createdAt": "2023-12-19T01:37:40.803Z",
+      "updatedAt": "2023-12-19T01:38:21.998Z"
+    }
+  ],
+  "fights": []
+}
